@@ -86,7 +86,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/J0SAL/Decentralized-Expense-Tracker
+$  git clone https://github.com/tbasdev57/TS_Expense-Tracker.git
 # Go into the repository
 $ cd Decentralized-Expense-Tracker
 $ cd backend
